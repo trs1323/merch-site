@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/merch-site/static/css/main.5d0adeb2.chunk.css",
+    "main.js": "/merch-site/static/js/main.55ffff57.chunk.js",
+    "main.js.map": "/merch-site/static/js/main.55ffff57.chunk.js.map",
+    "runtime-main.js": "/merch-site/static/js/runtime-main.e34333ff.js",
+    "runtime-main.js.map": "/merch-site/static/js/runtime-main.e34333ff.js.map",
+    "static/js/2.ad4d0d97.chunk.js": "/merch-site/static/js/2.ad4d0d97.chunk.js",
+    "static/js/2.ad4d0d97.chunk.js.map": "/merch-site/static/js/2.ad4d0d97.chunk.js.map",
+    "index.html": "/merch-site/index.html",
+    "precache-manifest.b6a35be4fad810dcc15b13bb1942df69.js": "/merch-site/precache-manifest.b6a35be4fad810dcc15b13bb1942df69.js",
+    "service-worker.js": "/merch-site/service-worker.js",
+    "static/css/main.5d0adeb2.chunk.css.map": "/merch-site/static/css/main.5d0adeb2.chunk.css.map",
+    "static/js/2.ad4d0d97.chunk.js.LICENSE": "/merch-site/static/js/2.ad4d0d97.chunk.js.LICENSE",
+    "static/media/95.png": "/merch-site/static/media/95.99c52fc4.png",
+    "static/media/hoodie.png": "/merch-site/static/media/hoodie.0b77d9a4.png",
+    "static/media/paris.png": "/merch-site/static/media/paris.eb5ab0df.png",
+    "static/media/showcase.png": "/merch-site/static/media/showcase.2db49798.png",
+    "static/media/showcase.jpg": "/merch-site/static/media/showcase.cfae671e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e34333ff.js",
+    "static/js/2.ad4d0d97.chunk.js",
+    "static/css/main.5d0adeb2.chunk.css",
+    "static/js/main.55ffff57.chunk.js"
+  ]
+}
