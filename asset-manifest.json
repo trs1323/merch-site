@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/merch-site/static/css/main.5d0adeb2.chunk.css",
-    "main.js": "/merch-site/static/js/main.55ffff57.chunk.js",
-    "main.js.map": "/merch-site/static/js/main.55ffff57.chunk.js.map",
+    "main.js": "/merch-site/static/js/main.d45bb2e2.chunk.js",
+    "main.js.map": "/merch-site/static/js/main.d45bb2e2.chunk.js.map",
     "runtime-main.js": "/merch-site/static/js/runtime-main.e34333ff.js",
     "runtime-main.js.map": "/merch-site/static/js/runtime-main.e34333ff.js.map",
     "static/js/2.ad4d0d97.chunk.js": "/merch-site/static/js/2.ad4d0d97.chunk.js",
     "static/js/2.ad4d0d97.chunk.js.map": "/merch-site/static/js/2.ad4d0d97.chunk.js.map",
     "index.html": "/merch-site/index.html",
-    "precache-manifest.b6a35be4fad810dcc15b13bb1942df69.js": "/merch-site/precache-manifest.b6a35be4fad810dcc15b13bb1942df69.js",
+    "precache-manifest.8a68a9cf19cfe8f5e58ce820e98516e4.js": "/merch-site/precache-manifest.8a68a9cf19cfe8f5e58ce820e98516e4.js",
     "service-worker.js": "/merch-site/service-worker.js",
     "static/css/main.5d0adeb2.chunk.css.map": "/merch-site/static/css/main.5d0adeb2.chunk.css.map",
     "static/js/2.ad4d0d97.chunk.js.LICENSE": "/merch-site/static/js/2.ad4d0d97.chunk.js.LICENSE",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.e34333ff.js",
     "static/js/2.ad4d0d97.chunk.js",
     "static/css/main.5d0adeb2.chunk.css",
-    "static/js/main.55ffff57.chunk.js"
+    "static/js/main.d45bb2e2.chunk.js"
   ]
 }
